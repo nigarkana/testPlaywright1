@@ -18,5 +18,5 @@ This a test project for testing with playwright.
 13. `git pull --fetch-all` - to pull all changes and branches to local
 14. `git branch` - to show all the branches in local
 15. `git branch <branch_name>` - to create a new branch in local
-16. `git checkout <branch_name` - to switch to another branch
+16. `git checkout <branch_name>` - to switch to another branch
 17. `git checkout -b <branch_name>` - to create and switch to the new branch
